@@ -1,6 +1,6 @@
 {
 	"Name": "Blur Obscura",
-	"Version": 1770941556,
+	"Version": 1770942012,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -168,6 +168,7 @@
 				"80",
 				"102",
 				"253",
+				"302",
 				"121",
 				"124",
 				"126",
@@ -193,8 +194,7 @@
 				"61",
 				"65",
 				"92",
-				"112",
-				"302"
+				"112"
 			],
 			"KillerIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
